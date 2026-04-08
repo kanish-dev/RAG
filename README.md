@@ -127,8 +127,8 @@ python main.py
 ## 📬 Contact
 
 **Kanishka**  
-📧 Email: your-email@example.com  
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile  
+📧 Email: kanishka2kk2@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kanish7
 
 ---
 
