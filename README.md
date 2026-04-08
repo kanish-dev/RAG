@@ -93,7 +93,7 @@ LLM Response Generation
 git clone https://github.com/kanish-dev/RAG.git
 cd RAG
 ```
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 ``` bash
 pip install -r requirements.txt
 ```
